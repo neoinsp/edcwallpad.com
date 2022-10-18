@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.367fd1fd12d88e6b90912cfc1eee1356.js"
+  "/precache-manifest.e9b2dbb46f51f501dc3587ea7f05d10f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "edc_wallpad"});
